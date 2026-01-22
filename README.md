@@ -102,4 +102,4 @@ These skills follow the [Agent Skills format](https://agentskills.io/specificati
 
 ## License
 
-MIT
+Apache 2.0 License
